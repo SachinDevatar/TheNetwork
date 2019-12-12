@@ -1,18 +1,19 @@
 # TheNetwork
 Social and Professional Networking.
 
----->The Network <----
+The Network 
 
 In this application, a student can connect with their friends using their .edu email id, they can create/delete status, add/remove friends, edit profile, create/remove posts. We have added a functionality for the user where they can mark their post as Social or Professional
 
 We used JSP, Servlets, and the data we are storing in MySQL and MongoDB. Using Python markdown we have fetched data from Twitter.
 
----->Total Number of Lines of code written<---- 
+Total Number of Lines of code written:
+
 Total Files: 56
 Total Lines of Code:9355
 
 
----->Features of our Project<----
+Features of our Project:
 
 -User can signup and login using a .edu only email address
 -They can upload profile/cover pictures
@@ -24,7 +25,7 @@ Total Lines of Code:9355
 -They can apply for the jobs through tweets that will be displayed on this private page.
 
 
----->Assignment Features Implemented in our Project <----
+Assignment Features Implemented in our Project:
 
 Signup 
 Login and Logout
@@ -33,7 +34,7 @@ Twitter API
 
 
 
----->How to Deploy and Run<----
+How to Deploy and Run:
 
 -Run MongoDB, MySQL.
 -Make the database NetworkDatabase in MongoDB and MySQl
