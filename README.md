@@ -46,7 +46,7 @@ The tables created are
                  - FriendList.  
                  - statuslist.
                  - UserProfile.
--Apart from the jar files already used in the assignments, two additional .jar files named 'commons-file-upload-1.3.2' and 'commons-io-2.6' have been used for implementing file upload functionalities. These jars should be downloaded and compiled and be set in the environment variables.
+- The .jar files named 'commons-file-upload-1.3.2' and 'commons-io-2.6' have been used for implementing file upload functionalities. These jars should be downloaded and compiled and be set in the environment variables.
 
 -The Twitter API key is present in the credentials.txt in the Project folder.
 
